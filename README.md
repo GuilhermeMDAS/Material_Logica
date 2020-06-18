@@ -1,3 +1,6 @@
+![Lógica](https://img.shields.io/badge/L%C3%B3gica-1.0-blue)
+![Build Passing](https://img.shields.io/badge/build-passing-yellow)
+
 # Material Logica
 Meu material de Lógica para a UC-09 do Senac Vila Prudente.
 
@@ -15,3 +18,4 @@ Encadear uam série de instruções para que se possa chegar à uma solução de
 ## Fases de Processamento
 
 ![Imagem](https://user-images.githubusercontent.com/65987385/84964057-7d079300-b0e1-11ea-8f4d-37f062cb7a56.JPG)
+
